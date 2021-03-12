@@ -4,7 +4,7 @@ This is a package that simply formats input fields and adds a comma to every las
 
 # Installation
 
-`npm i input-formatterr`
+`npm i input-formmater`
 
 ..Then
 
